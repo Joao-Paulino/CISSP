@@ -1,7 +1,7 @@
 # CISSP - Guia de Estudo 
 
 # Guias e notas de estudo de domínio
-[Dominio 1: Gestão de Risco e Segurança](./D1-gerenciamento-de-seguranca-e-risco.md)
+[Dominio 1: Gestão de Risco e Segurança](./D1-Gestão de Segurança e Risco.md)
 
 [Dominio 2: Gestão de Ativos](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D2%20-%20Asset%20Security.md)
 
